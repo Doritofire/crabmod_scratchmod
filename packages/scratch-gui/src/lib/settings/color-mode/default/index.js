@@ -8,10 +8,10 @@ const blockColors = {
         colourQuaternary: '#3373CC'
     },
     looks: {
-        colourPrimary: '#9966FF',
-        colourSecondary: '#855CD6',
-        colourTertiary: '#774DCB',
-        colourQuaternary: '#774DCB'
+        colourPrimary: '#EA7452',
+        colourSecondary: '#D76543',
+        colourTertiary: '#C45A3C',
+        colourQuaternary: '#C45A3C'
     },
     sounds: {
         colourPrimary: '#CF63CF',
